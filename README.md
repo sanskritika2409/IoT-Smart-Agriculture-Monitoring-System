@@ -175,29 +175,37 @@ PUMP STATUS: ON
 
 ## 📸 Screenshots
 
-### Dashboard
+### 🌐 Smart Agriculture Dashboard
 
-images/dashboard.png
-images/dashboard 1.png
+![Dashboard](images/dashboard.png)
 
-### Sensor Trends
+![Dashboard 2](images/dashboard%201.png)
 
-images/trends.png
+---
 
-### Alert Panel
+### 📈 Sensor Trends Analysis
 
-images/alerts.png
+![Sensor Trends](images/trends.png)
 
-### CSV Data
+---
 
-images/csv_output.png
-# SERIAL monitor
+### 🚨 Alert Monitoring Panel
 
+![Alert Panel](images/alerts.png)
 
-images/serial_monitor.png
-images/serial_monitor1.png
+---
 
+### 📄 CSV Data Logging Output
 
+![CSV Output](images/csv_output.png)
+
+---
+
+### 💻 Serial Monitor Output
+
+![Serial Monitor](images/serial_monitor.png)
+
+![Serial Monitor 2](images/serial_monitor1.png)
 
 ---
 
